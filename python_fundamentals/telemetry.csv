@@ -1,0 +1,7 @@
+agent_id,gpu_utilization
+agent-a,65.5
+agent-b,92.0
+agent-c,invalid
+agent-d,85.0
+agent-e,-10
+agent-f,100.0
