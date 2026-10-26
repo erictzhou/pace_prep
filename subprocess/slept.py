@@ -1,3 +1,3 @@
 import time
 
-sleep(5)
+time.sleep(5)
